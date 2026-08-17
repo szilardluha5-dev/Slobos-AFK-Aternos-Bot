@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Woru.aternos.me:54313",
+    "ip": "Woru.aternos.me",
     "port": 54313,
     "version": "",
     "try-creative": false
